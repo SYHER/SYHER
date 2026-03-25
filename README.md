@@ -29,6 +29,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=SYHER&show_icons=true" />
 </picture>
 
+<img src="https://github-readme-stats.vercel.app/api?username=SYHER&show_icons=true&count_private=true&custom_title=My%20GitHub%20stats&bg_color=30,7200BF,AD39B7&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=290079&border_radius=14&include_all_commits=true&line_height=30">
+
 
 <div align=center><h1>📚 Language</h1></div>
 
