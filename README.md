@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Saeyoung%20HER&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=👩‍💻%20Focusing%20·%20Seoul,%20Korea&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://github.com/SYHER">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Hello%2C+I'm+Saeyoung+👋;Exploring+AI+Agents+%26+Google+Cloud;Python+%7C+BigQuery+%7C+ADK;Building+one+commit+at+a+time+🌱" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Hello%2C+I%27m+Saeyoung;Exploring+AI+Agents+%26+Google+Cloud;Python+%2F+BigQuery+%2F+ADK;Building+one+commit+at+a+time" alt="typing" />
 </a>
 
 <br/>
@@ -53,10 +53,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SYHER&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYHER&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top languages" />
+![Followers](https://img.shields.io/github/followers/SYHER?style=for-the-badge&logo=github&color=8B5CF6&labelColor=1F2937)
+![Repos](https://img.shields.io/badge/Repositories-22-8B5CF6?style=for-the-badge&logo=github&labelColor=1F2937)
+![Contributions](https://img.shields.io/badge/Contributions-518_in_the_last_year-8B5CF6?style=for-the-badge&logo=github&labelColor=1F2937)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SYHER&theme=radical&hide_border=true&background=0D1117" alt="streak" />
+[![Activity](https://streak-stats.demolab.com/?user=SYHER&theme=radical&hide_border=true&background=0D1117)](https://github.com/SYHER)
 
 </div>
 
