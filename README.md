@@ -4,7 +4,7 @@
 
 </div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/player-card-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/player-card-light.svg"><img src="assets/player-card-light.svg" width="100%" alt="Player card: Saeyoung HER, Kearney Korea, Seoul. Tech stack: Python, Google Cloud, BigQuery, Gemini, Docker, Pandas, Cloud Run, Git" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/player-card-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/player-card-light.svg"><img src="assets/player-card-light.svg" width="100%" alt="Player card: Saeyoung HER, Kearney Korea, Seoul. Tech stack: Python, SQL, JavaScript, BigQuery, Cloud Run, Gemini, Docker, Git" /></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg"><img src="assets/about-light.svg" width="100%" alt="About me: Saeyoung HER, Seoul, Kearney Korea. Exploring AI Agents, Google Cloud, Conversational Analytics. Ask me about Python, BigQuery, data analysis" /></picture>
 
